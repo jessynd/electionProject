@@ -7,7 +7,7 @@
 1. What is voter turnout for Toronto elections pre-and-post-amalgamation? (1998 - today)
 2. How many people have voted for mayor? 
 3. How many people have run for mayor? 
-4. What are the issues in an election? 
+
 
 ##Political Awarenes 
  
@@ -20,7 +20,7 @@
 ##Functionality 
 
 10. How can we facilitate voting? 
-11. What would be useful to voters? 
+11. What would be useful to overcoming voter obstacles? 
 12. What are the obstacles to voting? 
 
 
